@@ -27,6 +27,21 @@ It supports basic arithmetic operations such as addition, subtraction, multiplic
 Click buttons or use keyboard. Press `=` or Enter to evaluate. `C` clears, `⌫` deletes last char.
 
 ## Setup Instructions
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Krish2905-cell/SCT_task2.git
+1. Clone this repository or download the files.
+2. Open the `index.html` file in your browser.
+3. Start performing calculations.
+
+## Preview
+![Calculator Preview](./assets/Screenshot%202025-09-13%20222737.png)
+
+## File Structure
+- `index.html` — Main HTML structure  
+- `style.css` — Styling for the calculator  
+- `script.js` — JavaScript logic
+
+## Future Improvements
+- Add support for keyboard input  
+- Implement advanced features like square root, power, or memory storage
+
+## Author
+Designed and Developed by Krish
